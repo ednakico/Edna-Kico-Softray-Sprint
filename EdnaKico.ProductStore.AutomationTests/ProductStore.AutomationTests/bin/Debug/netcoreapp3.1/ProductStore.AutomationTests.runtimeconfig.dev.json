@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Edna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Edna\\.nuget\\packages"
+    ]
+  }
+}
